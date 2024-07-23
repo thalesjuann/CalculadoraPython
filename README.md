@@ -23,7 +23,7 @@ O projeto consiste em um único arquivo Python:
 
 1. **Certifique-se de ter o Python instalado**
 
-   O código foi desenvolvido para Python 3.x. Você pode baixar e instalar o Python a partir do [site oficial do Python](https://www.python.org/downloads/).
+   O código foi desenvolvido para Python 3.x. Você pode baixar e instalar o Python a partir do site oficial do [Python](https://www.python.org/downloads/).
 
 2. **Clone o repositório**
 
